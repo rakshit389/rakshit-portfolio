@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rakshit-portfolio/static/css/main.cf7b50ce.css",
-    "main.js": "/rakshit-portfolio/static/js/main.01a46211.js",
+    "main.js": "/rakshit-portfolio/static/js/main.0cbca7df.js",
     "static/js/787.f587e8d5.chunk.js": "/rakshit-portfolio/static/js/787.f587e8d5.chunk.js",
     "static/media/background_theme.gif": "/rakshit-portfolio/static/media/background_theme.8b974fb2ad73dca1bc87.gif",
     "static/media/java.png": "/rakshit-portfolio/static/media/java.36860c4d8bfa6e950d5b.png",
@@ -15,11 +15,11 @@
     "static/media/python.avif": "/rakshit-portfolio/static/media/python.3c3aad5ac99a4fafde44.avif",
     "index.html": "/rakshit-portfolio/index.html",
     "main.cf7b50ce.css.map": "/rakshit-portfolio/static/css/main.cf7b50ce.css.map",
-    "main.01a46211.js.map": "/rakshit-portfolio/static/js/main.01a46211.js.map",
+    "main.0cbca7df.js.map": "/rakshit-portfolio/static/js/main.0cbca7df.js.map",
     "787.f587e8d5.chunk.js.map": "/rakshit-portfolio/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7b50ce.css",
-    "static/js/main.01a46211.js"
+    "static/js/main.0cbca7df.js"
   ]
 }
