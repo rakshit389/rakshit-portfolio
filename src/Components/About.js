@@ -8,7 +8,7 @@ function About( props )
                         <div className="aboutme">
                             <h1>About Me</h1>
                             <p>Hello, this is Rakshit Upadhyay, MERN stack developer, pursuing my Bachelor of technology in Computer Science from Graphic Era Hill University Dehradun.<br></br>
-                                I have developed several projects in web developement domain using javascript and it's frameworks like React js , Nodejs.
+                                I'm a passionate developer who loves bringing ideas to life through code, This portfolio is a glimpse into my world of innovation and creation. I have developed several projects in web developement domain using javascript and it's frameworks like React js , Nodejs.
                                 I have done more than 300 problems on different coding plateforms. I am Machine Learning enthusiast , I have done few projets in machine learning domain. <br></br>
                                 Apart from that I have team spirit and good problem solving skills.
                             </p>
