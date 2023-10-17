@@ -50,7 +50,7 @@ function Home()
       
     return( <>
                 <div className='intro'>
-                     <h2>Hii I'm Rakshit Upadhyay</h2>
+                     <h2>Hi I'm Rakshit Upadhyay</h2>
                      <h3>{text}</h3> 
                 </div>
             </>
